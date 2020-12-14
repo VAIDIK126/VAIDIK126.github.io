@@ -1,0 +1,26 @@
+body {
+	background-color: #FFFF99;
+}
+
+.p1 {
+	font-weight: bold;
+}
+
+.p2, .p3, .p4 {
+	font-weight: bold;
+	
+}
+
+a:hover {
+	color: red;
+}
+
+a {
+	color: black;
+}
+
+#footer {
+	background-color: black;
+	padding= 100px auto;
+	margin= 50px auto;
+}
